@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[lifeiscontent]]></title>
         <description><![CDATA[lifeiscontent]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lifeiscontent/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 01:56:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 01:57:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lifeiscontent/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/lifeiscontent/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">7c031d4e-a896-411d-b14e-a4771e81820c</guid>
+            <pubDate>Thu, 17 Dec 2015 01:56:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Learn CSS]]></title>
             <description><![CDATA[<article><h1>Learn CSS</h1><p>Table of Contents</p></article>]]></description>
-            <link>undefinedlearn-css/index.html</link>
+            <link>https://thegrid.ai/lifeiscontent/learn-css/index.html</link>
             <guid isPermaLink="false">bba087d6-1450-4149-9516-d9209c2c476c</guid>
             <pubDate>Thu, 17 Dec 2015 01:56:48 GMT</pubDate>
         </item>
