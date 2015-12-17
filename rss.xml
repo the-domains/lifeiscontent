@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[lifeiscontent]]></title>
-        <description><![CDATA[lifeiscontent]]></description>
+        <title><![CDATA[Thoughts and Tutorials from Aaron Reisman]]></title>
+        <description><![CDATA[Thoughts and Tutorials from Aaron Reisman]]></description>
         <link>https://thegrid.ai/lifeiscontent/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 01:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 02:09:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lifeiscontent/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/lifeiscontent/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">7c031d4e-a896-411d-b14e-a4771e81820c</guid>
-            <pubDate>Thu, 17 Dec 2015 01:56:49 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Learn CSS]]></title>
             <description><![CDATA[<article><h1>Learn CSS</h1><p>Table of Contents</p></article>]]></description>
